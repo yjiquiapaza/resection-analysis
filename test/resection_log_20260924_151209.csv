@@ -1,0 +1,2 @@
+Timestamp,SessionNumber,EventType,PairIndex,Azimuth,Lat,Lon,GpsLat,GpsLon,ObservationsUsed,ResidualMeters
+2026-09-24 15:12:08.892,0,MarkerCreated,0,356.73,,,0.000000,0.000000,,
