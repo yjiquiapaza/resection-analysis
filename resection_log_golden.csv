@@ -1,5 +1,6 @@
-Azimuth,Lat,Lon,GpsLat,GpsLon
-167.86,48.6982534,2.1538028,48.7022484,2.1530186
-265.2,48.7009385,2.129361,48.7022484,2.1530186
-17.16,48.712265,2.166528,48.7022484,2.1530186
-
+Azimuth,Lat,Lon,GpsLat,GpsLon,Session,Description
+167.86,48.6982534,2.1538028,48.7022484,2.1530186,1,Yhonatan's house
+265.2,48.7009385,2.129361,48.7022484,2.1530186,1,Yhonatan's house
+39.63,48.7122598,2.1655833,48.7022484,2.1530186,1,Yhonatan's house
+2.7,48.7859585,2.1590184,48.7022484,2.1530186,2,"Yhonatan's house, Tour Eiffel, Airport Paris-Orly, Caen Abbaye-aux Demes"
+127.69,48.6792003,2.1981759,48.7022484,2.1530186,2,"Yhonatan's house, Tour Eiffel, Airport Paris-Orly, Caen Abbaye-aux Demes"
