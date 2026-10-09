@@ -26,7 +26,7 @@ read_log <- function(path) {
 
 files <- list.files(pattern = "^resection_log_.*\\.csv$")
 files2 <- list.files(pattern = "^resection_log_golden*\\.csv$")
-data <- do.call(rbind, lapply(files2, read_log))
+data <- do.call(rbind, lapply(files, read_log))
 
 
 sessions <- split(data, data$session)

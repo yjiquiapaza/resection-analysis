@@ -8,7 +8,7 @@ read_data <- function(path) {
   d
 }
 
-d <- read_data("resection_log_golden.csv")
+d <- read_data("resection_log_golden1.csv")
 
 
 resection <- function(az, x, y, add = rep(TRUE, length(az))) {
@@ -233,4 +233,4 @@ g1 <- ggplot() +
   ) +
   theme_minimal(base_size = 12) +
   theme(legend.position = "bottom", plot.title = element_text(face = "bold"))
-ggsave("charts/1_mapa_metros.png", g1, width = 8, height = 7, dpi = 150)
+ggsave("charts/1_map_metros.png", g1, width = 8, height = 7, dpi = 150)
